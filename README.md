@@ -52,3 +52,9 @@ The online hotel reservation channels have dramatically changed booking possibil
   * **booking_status** $:$ *Flag indicating if the booking was canceled or not.*
     * *Cancelled*
     * *Not_Cancelled*
+
+Have a look at the notebook for **data analysis** and **model building**.
+
+Notebook : https://www.kaggle.com/code/utkarshsaxenadn/hotel-guest-analysis-model-comparision
+Kaggle Account : https://www.kaggle.com/utkarshsaxenadn
+LinkedIn : https://www.linkedin.com/in/utkarsh-saxena-deepnets/
